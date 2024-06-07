@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-As a developer who is primarily interested in Front-End development I am always continuing progressing my skills. I am currently using platforms like Scrimba, Udemy, and FreeCodeCamp to "boost" my front-end skills. While I love watching tutorials and learning new things I also pride myself in creating my own projects that mean a lot to me and are focused on items I am interested in. I am also one who loves helping others who are just getting their feet wet in development. I know how hard it can be to start your career in development and get your first development job, so I always try to help anyway I can.
+As a dedicated Full Stack developer, I maintain a steadfast commitment to advancing my skill set. I actively seek opportunities to enhance my proficiency through tutorials and personal project development, consistently exploring new technologies and methodologies. My passion for crafting meaningful projects aligns with my interests, driving my pursuit of innovative solutions and novel applications. Moreover, I take pride in fostering a supportive environment for newcomers to the field, leveraging my experience to provide guidance and mentorship to aspiring developers navigating the early stages of their careers.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
